@@ -14,4 +14,4 @@ This repository contains code for Leap Motion's Unity Modules, easy-to-use tools
 [um-docs]: https://leapmotion.github.io/UnityModules/
 [devsite]: https://developer.leapmotion.com/unity/ "Leap Motion Unity Developer site"
 [wiki]: https://github.com/leapmotion/UnityModules/wiki "Leap Motion Unity Modules Wiki"
-[LICENSE.md]: https://github.com/varjocom/VR2Pro-UnityModules/LICENSE.md "VR-2 Pro UnityModules License"
+[LICENSE.md]: https://github.com/varjocom/VR2Pro-UnityModules/blob/master/LICENSE.md "VR-2 Pro UnityModules License"
