@@ -4,7 +4,7 @@
 
 **IMPORTANT: READ CAREFULLY BEFORE INSTALLING, DOWNLOADING, OR USING THE SOFTWARE**
 
-This Varjo End-User License Agreement (“Agreement”) is between you (either an individual or an entity) (“You”) and Varjo Technologies Oy (“Varjo”) and govern Your use of the Plugins related to Ultrahleap hand tracking software, Plugins and, related documentation as well as updates and upgrades to the above made available by Varjo from time to time at its discretion (jointly the “Software”). 
+This Varjo End-User License Agreement (“Agreement”) is between you (either an individual or an entity) (“You”) and Varjo Technologies Oy (“Varjo”) and govern Your use of the Plugins related to Ultraleap hand tracking software, Plugins and, related documentation as well as updates and upgrades to the above made available by Varjo from time to time at its discretion (jointly the “Software”). 
 
 For the purposes of this Agreement, Plugins mean Unity and Unreal plugins and other Unity modules which may be made available by Varjo, however excluding any directories called or marked as “Experimental”.
 
