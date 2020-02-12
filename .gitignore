@@ -26,6 +26,8 @@ Temp/
 [Bb]uild/
 [Bb]uilds/
 
+/Assets/Varjo*
+
 .vs/
 .vscode/
 
